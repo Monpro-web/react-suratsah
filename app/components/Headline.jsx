@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const Headline = (props) => {
-    console.log(props);
+export function Headline (props) {
+    
     
   return (
     <div>
